@@ -14,4 +14,5 @@
 - settings instalar lattest tools
 
 ## Iniciar 
-- example flutter run
+- flutter create my_project
+- my_project flutter run
